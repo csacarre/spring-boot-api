@@ -10,7 +10,9 @@ API REST desarrollada sobre Spring Boot 2.6.4.
 
 ### JDK
 Java jdk 8u202
-### Dependencias
 
-* Spring DevTools.
-* Spring Web.
+### Dependencias
+* Spring DevTools
+* Spring Web
+* Spring Data JPA
+* MySQL 8
